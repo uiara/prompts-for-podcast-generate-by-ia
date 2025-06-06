@@ -21,7 +21,7 @@ Você pode ouvir o episódio completo aqui:
 
 - 🎧 **[NotebookLM](https://notebooklm.google.com/)** – para gerar o roteiro e sintetizar o áudio com voz natural
 - 🧠 **[Gemini](https://gemini.google.com/)** – para criar a arte de capa com ilustração personalizada
-- 💡 **ChatGPT** – para planejamento, roteiro e estruturação dos blocos
+- 💡 **[ChatGPT](https://chatgpt.com/)** – para planejamento, roteiro e estruturação dos blocos
 
 ---
 
